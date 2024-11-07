@@ -13,4 +13,4 @@ Let's connect to explore how my expertise can help your ventures thrive.
 
 ## Get-in Touch
 
-[![My linkedin](https://skillicons.dev/icons?i=linkedin)]www.linkedin.com/in/m-furqan-siddiqui-654696337
+![My linkedin](https://skillicons.dev/icons?i=linkedin)www.linkedin.com/in/m-furqan-siddiqui-654696337
